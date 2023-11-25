@@ -26,7 +26,7 @@ Step 1:
 Create a Container resitry in azure portal like:
 
 admin user: bazinga
-password:   7QrLvt9Z+okpXW+ody366lQwXXzkPdenzhUFx8Y7xi+ACRAUIc6U
+password:   7QrLvt9Z+okp*****************************************c6U
 
 
 Step 2:
@@ -41,7 +41,7 @@ az acr login --name bazinga.azurecr.io
 
 give user-id and password in command prompt:
 bazinga
-7QrLvt9Z+okpXW+ody366lQwXXzkPdenzhUFx8Y7xi+ACRAUIc6U
+7QrLvt9Z+okp*******************i+ACRAUIc6U
 
 then run: 
 docker images
